@@ -47,6 +47,12 @@ For adding hotel info into room_details: http://localhost:3000/api/add-room
 
 For fectching hotel_details: http://localhost:3000/api/hotel/:hotel_slug
 
+# Images:
+![Screenshot from 2024-07-29 12-33-01](https://github.com/user-attachments/assets/96b3c712-44ff-4b16-a61a-6df60e8ac361)
+
+![Screenshot from 2024-07-29 12-33-17](https://github.com/user-attachments/assets/05b65eed-69e6-47d8-bcd6-fb2e0f1a7af5)
+
+
 
 # Techonologies Used:
 
